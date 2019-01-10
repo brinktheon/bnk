@@ -92,6 +92,7 @@ export default {
   padding: 10px;
   width: 99.7%;
   height: 820px;
+  margin-top: 4%;
 }
 .servTitle{
   background-color: #F1F1F1;

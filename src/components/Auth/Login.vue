@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container r">
     <transition name='fade'>
     <b-alert class="alrt"
             :show="dismissCountDown"
@@ -63,10 +63,15 @@
   }
 </script>
 <style>
+.container{
+  margin-top: 5%;
+}
+
 .login{
   margin-top: 50px;
 }
 .login-container {
+
   padding: 30px;
   max-width: 400px;
   width: 100% !important;

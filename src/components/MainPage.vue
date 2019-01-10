@@ -36,6 +36,8 @@
   </div>
   <div class="shortService">
     <div class="serviceContainer">
+      <div class="row">
+        <div class="col-sm">
       <div class="serv1">
         <div class="ic">
           <home  class='icon-2x' /><br/>
@@ -43,6 +45,8 @@
         Банк онлайн <br>
         GM предоставляет услуги интернет банка онлайн
       </div>
+    </div class="col-sm">
+    <div class="col-sm">
       <div class="serv2">
         <div class="ic">
           <MenuIcon  class='icon-2x' /><br/>
@@ -50,6 +54,8 @@
         Простое управление <br>
         GM предоставляет простое управление
       </div>
+    </div class="col-sm">
+        <div class="col-sm">
       <div class="serv3">
         <div class="ic">
           <tableLarge  class='icon-2x' /><br/>
@@ -57,7 +63,10 @@
         Учет своих операций <br>
         GM предоставляет оналайн учет операций
       </div>
+    </div class="col-sm">
+  </div>
     </div>
+
   </div>
   </div>
 </template>
@@ -123,7 +132,7 @@ export default {
 }
 .serviceContainer{
   padding-top: 15px;
-  margin-left: 19%;
+  margin-left: 10%;
 }
 .serv1{
    float:left;

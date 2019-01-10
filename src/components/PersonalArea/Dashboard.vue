@@ -119,6 +119,8 @@ export default {
 
 }
 
+.wrapper{  margin-top: 3.9%;}
+
 .sidebar {
   margin: 0;
   padding: 0;

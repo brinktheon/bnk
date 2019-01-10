@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
         <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
           <a class="navbar-brand" href="#">
             <img src="./orel.jpg" class="test" alt="BV">

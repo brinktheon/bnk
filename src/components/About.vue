@@ -45,6 +45,7 @@ export default {
     background: #F1F1F1;
     padding: 10px;
     height: 820px;
+    margin-top: 4%;
   }
   .topTitle{
     background-color: #F1F1F1;
